@@ -1,0 +1,20 @@
+
+.logo img {
+content:url(“logo.jpg”);
+
+}
+
+#jenkins-name-icon {
+display: none;
+}
+
+.logo:after {
+content: ‘Sample Project’;
+font-weight: bold;
+font-size: 40px;
+font-family:”Brush Script MT”, cursive;
+margin-left: 200px;
+margin-right: 12px;
+color: Aqua;
+line-height: 40px;
+}
